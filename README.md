@@ -2,4 +2,4 @@
 
 Joulun robolabran 2015 pohja
 
-#robolabra @ ircnet
+Ohjaus verkossa: #robolabra @ ircnet
